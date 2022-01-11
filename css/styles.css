@@ -1,0 +1,152 @@
+body {
+  background-color: white;
+}
+
+#title {
+  color: white;
+  background-color: #ea526f;
+  background-image: url(../images/sandipatron2.jpg);
+  background-size: 581px;
+  background-repeat: repeat;
+}
+
+nav {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.font--medium {
+  font-weight: 700;
+}
+
+/* Footer */
+#footer {
+  background-color: #386641;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}
+
+/* CTA */
+#cta {
+  background-color: #a7c957;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.telefonos {
+  color: #386641;
+}
+
+.solita {
+  font-size: 20px;
+}
+
+/***** Pricing ******/
+.pricing-card-title {
+  font-size: 35px
+}
+
+.font--bold {
+  font-weight: 800;
+}
+
+.cuidados__smalltext {
+  font-size: 20px;
+}
+
+#pricing {
+  padding: 40px 10px;
+}
+
+.cuidados {
+  font-size: 35px
+}
+
+.cuidados__p {
+  font-size: 20px;
+  padding-bottom: 12px;
+}
+
+/* Testimonials  */
+#testimonials {
+  background-color: #84dcc6;
+  padding: 60px 0;
+  color: white;
+}
+
+.testimonial-image {
+  width: 20%;
+  padding: 10px;
+  border-radius: 100%;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
+
+.carousel--padding {
+  padding: 0 20% 0 20%;
+}
+
+.gustos p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  padding: 0 30px 0 30px;
+}
+
+.gustos i:hover {
+  color: #08605f;
+}
+
+.gustos i {
+  color: #84dcc6;
+}
+
+.gustos h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.section-waves-margin {
+  margin-bottom: -120px;
+}
+
+.logo-nav {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+/**** features *****/
+.sandia-phone {
+  width: 62%;
+  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  transform: rotate(10deg);
+  position: relative;
+  top: 70px;
+}
+
+a {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 45px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
